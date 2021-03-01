@@ -44,7 +44,7 @@ sections:
             icon: twitter
             new_window: true
       - type: grid_item
-        title: Gordon Norman
+        title: Lea Peller
         subtitle: Creative Producer
         image: images/team-3.png
         content: >-
