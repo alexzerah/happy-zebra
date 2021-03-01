@@ -80,9 +80,9 @@ sections:
   - type: cta_section
     section_id: cta
     title: Rencontrons-nous !
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+    content: >
+      Dites bonjour à [alex.zerah@gmail.com](mailto:email@example.com) ( adresse
+      mail provisoire en attente d'un nom).
     actions:
       - type: action
         label: Let's start
