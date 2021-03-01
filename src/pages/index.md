@@ -19,7 +19,7 @@ sections:
   - type: grid_section
     section_id: clients
     title: Clients
-    subtitle: A few of the companies we're proud to call partners
+    subtitle: Nos futurs clients pour un max de monnaies !!!!!
     col_number: three
     grid_items:
       - type: grid_item
