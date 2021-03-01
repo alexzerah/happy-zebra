@@ -31,7 +31,7 @@ sections:
             new_window: true
       - type: grid_item
         title: Elina Kalster
-        subtitle: 'Cofondatrice, réalisatrice, présidente'
+        subtitle: 'Cofondatrice, réalisatrice'
         image: images/team-2.png
         content: >-
           Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
