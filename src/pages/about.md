@@ -9,7 +9,7 @@ sections:
       Imaginé par des génies beaux gosses oufissime, voici notre projet.
   - type: grid_section
     section_id: team
-    title: The Team
+    title: La team
     subtitle: An optional subtitle of the section
     col_number: three
     grid_items:
