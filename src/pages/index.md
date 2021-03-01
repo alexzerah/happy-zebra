@@ -11,7 +11,7 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     title: Derniers projets
-    subtitle: Explore case studies
+    subtitle: Explorer ce qui nous anime 15 heures par jours (hors vacances)
     layout_style: tiles
     projects_number: 6
     view_all_label: View All
