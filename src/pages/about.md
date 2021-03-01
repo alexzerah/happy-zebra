@@ -87,9 +87,8 @@ sections:
         title: Pade Noon
         subtitle: Graphic Designer
         image: images/team-5.png
-        content: >-
-          Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa
-          eget.
+        content: |
+          On verra plus tard pour toi
         actions:
           - type: action
             label: Twitter
