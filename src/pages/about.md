@@ -45,7 +45,7 @@ sections:
             new_window: true
       - type: grid_item
         title: Lea Peller
-        subtitle: Creative Producer
+        subtitle: 'Co fondatrice, Cheffe deco'
         image: images/team-3.png
         content: >-
           Interdum velit euismod in pellentesque massa placerat duis ultricies
