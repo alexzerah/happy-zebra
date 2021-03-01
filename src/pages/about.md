@@ -84,7 +84,7 @@ sections:
             icon: instagram
             new_window: true
       - type: grid_item
-        title: Pade Noon
+        title: Ophelie Fuxa
         subtitle: Habitante de Saint-Etienne
         image: images/team-5.png
         content: |
