@@ -84,7 +84,7 @@ sections:
             icon: instagram
             new_window: true
       - type: grid_item
-        title: Brandon Guidelines
+        title: Pade Noon
         subtitle: Graphic Designer
         image: images/team-5.png
         content: >-
