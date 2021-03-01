@@ -64,7 +64,7 @@ sections:
             icon: instagram
             new_window: true
       - type: grid_item
-        title: Parsley Montana
+        title: Sara Spinner
         subtitle: 'Senior Designer, Motion Graphics'
         image: images/team-4.png
         content: >-
