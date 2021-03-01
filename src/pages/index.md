@@ -50,14 +50,14 @@ sections:
       - type: grid_item
         title: Evenementiels
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   Avant-première
+          *   Vernissage
+          *   DJ set
+          *   Voyages à New York
+          *   Equipe dans toute la france
+          *   ???
+          *   ???
       - type: grid_item
         title: Rencontres
         image: images/service-3.svg
