@@ -17,7 +17,7 @@ sections:
     grid_items:
       - type: grid_item
         title: Alex Zerah
-        subtitle: 'Co-Founder, Creative Director'
+        subtitle: Referent creatif
         image: images/team-1.png
         content: >-
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
