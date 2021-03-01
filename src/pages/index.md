@@ -61,15 +61,15 @@ sections:
       - type: grid_item
         title: Rencontres
         image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
+        content: |
+          *   Je
+          *   Ne 
+          *   Sais
+          *   Pas 
+          *   Quoi
+          *   Dire
+          *   De
+          *   Plus
   - type: cta_section
     section_id: cta
     title: Rencontrons-nous !
