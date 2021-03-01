@@ -46,14 +46,7 @@ sections:
       - type: grid_item
         title: Production
         image: images/service-1.svg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
+        content: "*   Realiser un court métrage\n*   Recherche de financements\n*   Faire croitre l'experience de stagiaires\n*   (bientot) Produire des clips et musiques\n*   (bientôt) Créer un label\n*   (bientôt) Produire un court métrage\n*   \U0001F680 \U0001F680 \U0001F680 Changer le monde\n"
       - type: grid_item
         title: Evenementiels
         image: images/service-2.svg
