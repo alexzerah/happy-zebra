@@ -65,7 +65,7 @@ sections:
             new_window: true
       - type: grid_item
         title: Sara Spinner
-        subtitle: 'Senior Designer, Motion Graphics'
+        subtitle: 'Cofondatrice, productrice'
         image: images/team-4.png
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
