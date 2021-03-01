@@ -14,10 +14,10 @@ sections:
       ***
 
 
-      ## Our Offices
+      ## Nos Locaux
 
 
-      ### San Francisco
+      ### Paris
 
       1234 Some St.<br>
 
@@ -28,7 +28,7 @@ sections:
       [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
 
 
-      ### New York
+      ### Kremlin Bicetre
 
       1234 Some St.<br>
 
