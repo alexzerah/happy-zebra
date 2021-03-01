@@ -85,7 +85,7 @@ sections:
       mail provisoire en attente d'un nom).
     actions:
       - type: action
-        label: Let's start
+        label: Commencer
         url: /contact
         style: button
     image: images/cta.svg
