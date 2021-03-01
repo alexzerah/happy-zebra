@@ -16,7 +16,7 @@ sections:
     col_number: three
     grid_items:
       - type: grid_item
-        title: Gustav Purpleson
+        title: Alex Zerah
         subtitle: 'Co-Founder, Creative Director'
         image: images/team-1.png
         content: >-
