@@ -85,7 +85,7 @@ sections:
             new_window: true
       - type: grid_item
         title: Pade Noon
-        subtitle: Graphic Designer
+        subtitle: Habitante de Saint-Etienne
         image: images/team-5.png
         content: |
           On verra plus tard pour toi
