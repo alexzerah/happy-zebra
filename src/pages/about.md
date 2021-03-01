@@ -30,7 +30,7 @@ sections:
             icon: twitter
             new_window: true
       - type: grid_item
-        title: Hilary Ouse
+        title: Elina Kalster
         subtitle: 'Co-Founder, Creative Director'
         image: images/team-2.png
         content: >-
