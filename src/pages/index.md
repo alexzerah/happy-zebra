@@ -44,7 +44,7 @@ sections:
     col_number: three
     grid_items:
       - type: grid_item
-        title: Business design
+        title: Production
         image: images/service-1.svg
         content: |-
           - Research and insight
