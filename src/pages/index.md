@@ -10,7 +10,7 @@ sections:
       avons discuté de créer un collectif.
   - type: portfolio_section
     section_id: latest-projects
-    title: Recent Work
+    title: Derniers projets
     subtitle: Explore case studies
     layout_style: tiles
     projects_number: 6
