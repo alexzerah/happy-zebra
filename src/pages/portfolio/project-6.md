@@ -1,6 +1,6 @@
 ---
 title: Valerie Valere ou l'obsession blanche
-subtitle: Brand Development
+subtitle: Court métrage et installation
 date: '2021-02-06'
 thumb_image: images/work-photography-magazine-1-thumb.jpg
 thumb_image_alt: Subtle preview
