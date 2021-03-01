@@ -10,7 +10,9 @@ sections:
   - type: grid_section
     section_id: team
     title: La team
-    subtitle: An optional subtitle of the section
+    subtitle: >-
+      J'attends les photos de Sam pour pouvoir virer ces acteurs aux dents
+      blanches
     col_number: three
     grid_items:
       - type: grid_item
